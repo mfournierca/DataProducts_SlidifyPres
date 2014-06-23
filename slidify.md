@@ -10,11 +10,9 @@ output: slidify
 - Help students understand the basics of clustering
 - Find important patterns in the data that could SAVE LIVES
 
+## Link 
 
----
-## Screenshot
-
-<img src="graphics/screenshot.png" width="100%"/>
+[https://mfournierca.shinyapps.io/courseproject/](https://mfournierca.shinyapps.io/courseproject/)
 
 ---
 ## How it Works
@@ -23,6 +21,7 @@ output: slidify
 2. The user selects the variables to cluster on and the number of clusters
 3. These parameters are sent to the server, which calculates the clusters and returns a graph. 
 4. The client displays the graph. 
+
 
 ---
 ## Demo
@@ -57,7 +56,7 @@ We are bringing the power of k-means clustering to the masses. It's obvious how 
 
 This helps ordinary people with the sorts of data questions they face every day. 
 
-Invest $10 million in my startup. 
+Invest $10 million in this product. 
 
 Not for me. For them. 
 
