@@ -2,6 +2,7 @@
 title: "Data Products Presentation"
 subtitle: K-Means Clustering of Swiss Fertility Data
 output: slidify
+mode: selfcontained
 ---
 
 ## Purpose
